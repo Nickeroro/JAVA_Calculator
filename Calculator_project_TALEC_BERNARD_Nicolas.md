@@ -628,6 +628,7 @@ Pistes d'améliorations
 
 J'ai également exporté le projet en `.jar` affin de le rendre executable.
 (Il est accessible sous: `JAVA_calculator\out\artifacts\JAVA_calculator.jar` )
+
 ------
 
 TALEC-BERNARD Nicolas
