@@ -626,8 +626,8 @@ Pistes d'améliorations
   Je voulais essayer de me servire de cette liste et venir après apuis d'un bouton, stocker les résultats de l'opération dans celle-ci, s'en servant comme d'une pile.
 
 
-
-
+J'ai également exporté le projet en `.jar` affin de le rendre executable.
+(Il est accessible sous: `JAVA_calculator\out\artifacts\JAVA_calculator.jar` )
 ------
 
 TALEC-BERNARD Nicolas
