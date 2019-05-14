@@ -1,20 +1,10 @@
-<table>
-    <tr>
-        <td>TALEC-BENARD Nicolas</td>
-		<td>FIPA_2020 </br>17/10/2018</td>
-</table>
-
-
+A JAVA RPM and Infix Calculator
 
 ## Calculator project
 
 
-
 ## Introduction
 
-
-
-![Sans titre](C:\Users\Keroro\Desktop\Sans titre.bmp)
 
 
 
