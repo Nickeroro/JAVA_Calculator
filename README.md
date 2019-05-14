@@ -2,6 +2,7 @@ A JAVA RPM and Infix Calculator
 
 ## Calculator project
 
+![capture](calculator.jpg)
 
 ## Introduction
 
